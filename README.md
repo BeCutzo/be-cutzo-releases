@@ -19,14 +19,14 @@
 
 ### 2. ติดตั้ง
 
-**Windows**
+#### Windows
 
 1. ดับเบิลคลิกไฟล์ที่โหลดมา
 2. ถ้าขึ้นหน้าต่างสีน้ำเงิน **"Windows protected your PC"** ให้กดคำว่า **More info** แล้วกดปุ่ม **Run anyway**  
    *ขึ้นเพราะโปรแกรมยังไม่ได้ซื้อใบรับรองจาก Microsoft ไม่ใช่ไวรัส*
 3. กด **Next** ไปจนถึง **Install** แล้วกด **Finish** โปรแกรมจะเปิดขึ้นมา
 
-**Mac**
+#### Mac
 
 1. ดับเบิลคลิกไฟล์ `.dmg` แล้วลากไอคอน **Be Cutzo** ไปวางบนโฟลเดอร์ **Applications**
 2. เปิดโปรแกรม **Terminal** (กด Command + Space พิมพ์ `Terminal` แล้วกด Enter)
